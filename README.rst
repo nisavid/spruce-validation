@@ -1,6 +1,5 @@
+#################
+Spruce-validation
+#################
 
-##################
-nisavid-validation
-##################
-
-Validation.
+Spruce-validation is a Python library for validation.
